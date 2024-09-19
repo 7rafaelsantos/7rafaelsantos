@@ -1,4 +1,4 @@
-## 👋 Hi, I'm **Rafael Santos** — a 17-year-old Front-End Developer
+## 👋 Hi, I'm **Rafael Santos**, a Front-End Developer
 
 I'm passionate about crafting clean, responsive, and user-friendly interfaces, with a strong focus on delivering exceptional user experiences. Currently, I’m working at **Black Network** where I get to dive into exciting projects and continue to grow my skills.
 
