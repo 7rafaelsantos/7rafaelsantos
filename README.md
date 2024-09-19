@@ -10,7 +10,7 @@ I'm passionate about crafting clean, responsive, and user-friendly interfaces, w
 - Always exploring new design trends and technologies.
 - Actively contributing to open-source projects in my free time.
 
-## `🔧` My Skills
+## 🔧 My Skills
 
 [![](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/docs)
 [![](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/guide/)
