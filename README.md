@@ -1,6 +1,6 @@
-## 👋 Hi, I'm **Rafael Santos**, a Front-End Developer
+## 👋 Rafael Santos, 17 years
 
-I'm passionate about crafting clean, responsive, and user-friendly interfaces, with a strong focus on delivering exceptional user experiences. Currently, I’m working at **Black Network** where I get to dive into exciting projects and continue to grow my skills.
+> I'm a Front-End Developer passionate about creating intuitive interfaces for FiveM. Currently working at **Black Network**, I focus on delivering engaging user experiences and honing my skills.
 
 ### `🚀` Current Focus
 - Contributing to innovative projects at **Black Network**.
