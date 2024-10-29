@@ -1,4 +1,4 @@
-## 👋 Rafael Santos, 17 years
+## 👋 Rafael ''Rael'' Santos, 17 years
 
 > I'm a Front-End Developer passionate about creating intuitive interfaces for FiveM. 
 <br> Currently working at **Black Network**, I focus on delivering engaging user
