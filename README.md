@@ -22,4 +22,4 @@
 [![](https://skillicons.dev/icons?i=git)](https://git-scm.com/doc)
 [![](https://skillicons.dev/icons?i=react)](https://reactjs.org/docs/getting-started.html)
 [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[SolidJS](https://www.solidjs.com/)
+[![](https://solidjs.com/assets/logo.123b04bc.svg)](https://www.solidjs.com/)
