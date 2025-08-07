@@ -1,18 +1,16 @@
-## 👋 Rafael ''Rael'' Santos, 17 years
+## 👋 Rafael "Rael" Santos, 17 anos
 
-> I'm a Front-End Developer passionate about creating intuitive interfaces for FiveM. 
-<br> Currently working at **Black Network**, I focus on delivering engaging user
-<br> experiences and honing my skills.
+> Desenvolvedor Front-End apaixonado por criar interfaces modernas, funcionais e intuitivas.  
+> Sempre buscando oferecer a melhor experiência ao usuário e evoluir constantemente minhas habilidades.
 
-### `🚀` Current Focus
-- Contributing to innovative projects at **Black Network**.
-- Continuously learning new tools and technologies to enhance my craft.
+### `🚀` Foco Atual
+- Participar de projetos inovadores e desafiadores.
+- Aprimorar meus conhecimentos em ferramentas e tecnologias modernas.
 
-### `🌱` Lifelong Learner
-- Always exploring new design trends and technologies.
-- Actively contributing to open-source projects in my free time.
+### `🌱` Sempre Aprendendo
+- Explorando novas tendências de design e desenvolvimento.
+- Contribuindo com projetos open source no tempo livre.
 
-## 🔧 My Skills
+## 🔧 Minhas Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,typescript,git,solidjs,bootstrap,svelte,jquery)](https://skillicons.dev)
- 
