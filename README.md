@@ -14,5 +14,5 @@
 
 ## 🔧 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,typescript,git,solid,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,typescript,git,solidjs,bootstrap)](https://skillicons.dev)
  
