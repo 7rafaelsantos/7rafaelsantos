@@ -1,4 +1,4 @@
-## 👋 Rafael "Rael" Santos, 17 anos
+## 👋 Rafael "Rael" Santos, 18 anos
 
 > Desenvolvedor Front-End focado em transformar ideias em interfaces interativas, modernas e acessíveis.  
 > Apaixonado por tecnologia, design e pela experiência do usuário. Escrevo código com propósito e criatividade.
